@@ -9,7 +9,7 @@ START
 import math
 ### Step 3: 
 assign l1,l2
-Substitute the values in the distance formula  ![formula](/formula.jpg)
+Substitute the values in the distance formula 
 ### Step 4: 
 ### Step 5: 
 print the function
