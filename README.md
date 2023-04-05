@@ -28,7 +28,7 @@ print("{:.2f}".format(distance))
 
 
 ### OUTPUT:
-![DISTANCE-BETWEEN-TWO-POINTS](distance.png)
+![distance](https://user-images.githubusercontent.com/119405916/229997159-666d4f5d-69ab-4698-89b4-56b1365935d5.png)
 
 
 ### RESULT:
