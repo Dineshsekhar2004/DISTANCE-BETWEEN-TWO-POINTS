@@ -28,7 +28,7 @@ print("{:.2f}".format(distance))
 
 
 ### OUTPUT:
-Screenshot from 2023-03-28 14-02-54.png
+![DISTANCE-BETWEEN-TWO-POINTS](distance.png)
 
 
 ### RESULT:
